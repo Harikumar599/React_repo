@@ -1,0 +1,42 @@
+.login-background {
+    background-image: url("https://img.freepik.com/free-photo/background-gradient-lights_23-2149304976.jpg?w=740&t=st=1691057934~exp=1691058534~hmac=4749d6ed7a6a42ea1e2274db704177779376ae7fe04b31a1bfa43057f5b9b462");
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.member-login {
+    background-color: white;
+    width: 70%;
+    height: 80vh;
+   
+}
+.card{
+    width: 70rem;
+   
+
+}
+/* .image-one{
+    width: 100%;
+    height: 80vhh;
+} */
+
+.button-color{
+    /* background-color: rgb(73, 233, 73); */
+    width: 320px;
+    border-radius: 25px;
+    font-size: medium;
+    font-weight: 700;
+}
+.box-one{
+    width: 320px;
+    height: 40px;
+    border-radius: 25px;
+    outline: none !important;
+}
+
+span,.last-head{
+    color: rgb(122, 232, 135);
+}

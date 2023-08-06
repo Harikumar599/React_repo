@@ -1,0 +1,16 @@
+.back-pic {
+    background-image: url("https://img.freepik.com/free-photo/man-walks-along-road-forest-fog-view-from-back-generative-al_169016-28618.jpg?w=900&t=st=1690997901~exp=1690998501~hmac=1b110969a5c479ceef91556316da5eba705ba9a0634a7b8eaa5b682755090045");
+    width: 100%;
+    height: 91vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.three-button{
+    margin-top: 300px;
+}
+button{
+    width: 90px;
+    height: 40px;
+}
